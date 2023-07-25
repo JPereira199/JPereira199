@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hi! 👋
 
 My name is Joaquín, an advanced student in Biological Sciences. Currently, I'm studying at the Faculty of Sciences (UdelaR), where I've had the opportunity to design an automated pipeline to cluster, search, and visualize multigene families using Bash, Python and R. This project was recognized with the best poster prize in the undergraduate student category at the Uruguayan Society of Biosciences (SUB) congress.
 
