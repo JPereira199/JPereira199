@@ -1,22 +1,25 @@
 # Hi there! 👋
 
-My name is Joaquín, I have a degree in Biological Sciences. I studied at the Faculty of Sciences (UdelaR), where I had the opportunity to design an automated pipeline to cluster, search, and visualize multigene families using Bash, Python and R. This project was recognized with the best poster prize in the undergraduate student category at the Uruguayan Society of Biosciences (SUB) congress. I am currently collaborating on an applied genomic project in a research institute.
+My name is Joaquín. I have a degree in Biological Sciences and I’m currently pursuing an MSc in Bioinformatics in Uruguay. During my undergraduate studies, I designed an automated pipeline to cluster, search, and visualize multigene families using Bash, Python, and R. This project was awarded the best poster prize in the undergraduate student category at the Uruguayan Society of Biosciences (SUB) congress.
 
-Besides my degree in Biological Sciences, I have included topics such as Calculus, Linear Algebra, Computing, Discrete Mathematics, and Probability in my studies.
+I’m currently developing a pipeline that integrates metagenomic and direct sequencing data for an applied genomics project focused on cattle health at the Clemente Estable Institute of Biological Research (IIBCE).
 
-## 🔭 Working on:
-- Improving Bioinformatic pipeline to cluster, search, and visualize multigene families 🧬
-- Developing MReport an user friendly  pipeline for applied genomics
+In addition to my degree in Biological Sciences, I’ve also studied Calculus, Linear Algebra, Computer Science, Discrete Mathematics, and Probability.
+
+## 🔭 Currently working on:
+- Improving a bioinformatics pipeline to cluster, search, and visualize multigene families 🧬
+- Developing **MReport**, a user-friendly pipeline for applied genomics
 
 ## 🛠 Skills:
-- Bash (Intermediate)💻
-- Python (Intermediate)🐍
-- R (Begginer)📊
+- Python, Bash, R 💻
+- Snakemake, Nextflow 🔁
+- Data Analysis 📈
+- Data Visualization 🖼️
 
 ## 🎯 I’m looking to collaborate on:
-- Software Development Projects, particularly those with an emphasis in applied bioinformatics  💡
-- Developing and utilizing pipelines for processing and visualizing data.
- 
+- Software development projects, especially those with a focus on applied bioinformatics 💡
+- Developing and implementing pipelines for data processing and visualization
+
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/joaquinpereira1994/)
-- [Mail](pereirajoaquin199@gmail.com)
+- [Email](mailto:pereirajoaquin199@gmail.com)
